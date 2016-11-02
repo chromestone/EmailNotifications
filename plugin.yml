@@ -1,0 +1,19 @@
+name: EMailNotification
+main: com.gmail.absolutevanillahelp.EMailNotification.EMailNotification
+version: 1.0
+commands:
+  Request:
+    description: Requests for Owner
+    usage: /Request [player]
+    permission: EMailNotify.Request
+    permission-message:
+  ToggleNotification:
+    description: Turns off notifying owner
+    usage: /ToggleNotification [player]
+    permission: EMailNotify.ToggleNotification
+    permission-message:
+permissions:
+  EMailNotify.Request:
+    default: true
+  EMailNotify.ToggleNotification:
+    default: true

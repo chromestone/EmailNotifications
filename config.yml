@@ -1,0 +1,8 @@
+#how long in minutes between each request is allowed
+cool-down:
+#the credentials for which email to use as a sender as notification
+sender:
+  address:
+  password:
+#chromestone: username@email.com<-note just example, actual email required
+request:
