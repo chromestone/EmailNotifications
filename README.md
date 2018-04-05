@@ -1,5 +1,7 @@
 Email Notifications
 
+(Make sure you read all of it)
+
 Main feature:
 
 Allows players to send an email to the owner or whatever email provided
@@ -14,7 +16,7 @@ Well now I do since I know the command line command for it but it is too late.
 
 NOTE: I now know IT IS A VERY BAD IDEA TO KEEP PASSWORDS IN PLAIN TEXT, SO USE THIS WITH VERY VERY EXTREME CAUTION. I used an account I couldn't care for and hardcoded the password into the code but even that is a bad idea still. Just saying be aware of the danger.
 
-Also this uses the Java Mail API, so you need that. It is a dependency.
+Also this uses the Java Mail API, so you need that. It is a dependency. *It only works for GMail.*
 
 Bukkit version: bukkit-1.7.9-R0.3
 
