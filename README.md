@@ -12,9 +12,9 @@ _(Make sure you read all of it)_
 * (Of course, players do not have direct access to the email or password.)
 
 Also this uses the Java Mail API, so you need that. It is a dependency.
-Also *it only works for Gmail.*
+Also _it only works for Gmail_.
 
-On a lighter note, something fun you can do: If you're cell carrier has an email address "alias" for you number, you can get text messages.
+On a lighter note, something fun you can do: If your cell carrier has an email address "alias" for you number, you can get text messages.
 
 This used to be published on the official Bukkit plugin website but was taken down because Macs will generate the ".DS" hidden file. I couldn't figure out how to delete them or remove them from the packaging process at the time.
 
