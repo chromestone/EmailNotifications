@@ -14,6 +14,8 @@ _(Make sure you read all of it)_
 Also this uses the Java Mail API, so you need that. It is a dependency.
 Also *it only works for Gmail.*
 
+On a lighter note, something fun you can do: If you're cell carrier has an email address "alias" for you number, you can get text messages.
+
 This used to be published on the official Bukkit plugin website but was taken down because Macs will generate the ".DS" hidden file. I couldn't figure out how to delete them or remove them from the packaging process at the time.
 
 Well... now I do since I know the command line but it is too late.
